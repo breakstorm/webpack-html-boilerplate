@@ -1,5 +1,5 @@
-import hello from './hello.js';
-import world from './world.js';
+import hello from './js/hello.js';
+import world from './js/world.js';
 
 import css from './style.css';
 
